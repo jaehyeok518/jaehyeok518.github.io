@@ -9,14 +9,11 @@ redirect_from:
 
 I am an undergraduate researcher in the Department of Biomedical Software Engineering at
 [The Catholic University of Korea](https://www.catholic.ac.kr/), advised by Prof. Hyo Jung Kim.
-My research sits at the intersection of **clinical machine learning** and **electronic health records (EHR)**,
-with a focus on building prediction models that remain reliable when they are moved to new hospitals,
-populations, and settings.
 
 Research interests
 ======
 - **Clinical AI & Electronic Health Records** — prediction models built on structured EHR data (MIMIC-IV, eICU).
-- **Robustness & Transportability** — how models behave under distribution shift, limited covariate overlap, and label-free target populations.
+- **Deep Learning** — neural network models for clinical prediction and representation learning from structured EHR and clinical text.
 - **Clinical Natural Language Processing & LLMs** — clinical concept detection, encounter-status inference, and negation recognition from clinical text.
 
 What I am working on
