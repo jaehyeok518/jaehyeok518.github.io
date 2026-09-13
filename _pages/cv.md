@@ -9,8 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-<a href="/files/JaeHyeok_Han_CV.pdf" class="btn btn--primary" download><i class="fas fa-download"></i> Download CV (PDF)</a>
-
 Education
 ======
 * B.S. in Biomedical Software, The Catholic University of Korea, Mar. 2025 – Present (GPA: 4.22 / 4.50)
@@ -21,8 +19,7 @@ Research interests
 
 Research experience
 ======
-* Undergraduate Researcher, The Catholic University of Korea (Nov. 2025 – Present)
-  * Advisor: Prof. Hyo Jung Kim
+* Undergraduate Researcher, The Catholic University of Korea (Nov. 2025 – Present) — Advisor: Prof. Hyo Jung Kim
   * **Information-Channel Decomposition in Electronic Health Records** — investigating how observation patterns, recorded values, and static patient information contribute to clinical prediction using MIMIC-IV and eICU.
   * **Transportability of HPV Risk Prediction Models** — studying model transportability from NHANES to multinational DHS populations under limited covariate overlap and label-free target settings.
   * **Clinical Text Inference with Large Language Models** — evaluating LLMs for clinical concept detection, encounter-status inference, and negation recognition.
@@ -47,3 +44,5 @@ Certifications and languages
 ======
 * **Certifications:** SQL Developer (SQLD), ADsP
 * **English:** TOEIC 950 / 990
+
+<p style="margin-top:2em;"><a href="/files/JaeHyeok_Han_CV.pdf" class="btn" download style="background-color:#6c757d;border-color:#6c757d;color:#fff;"><i class="fas fa-download"></i> Download CV (PDF)</a></p>
