@@ -9,6 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+<a href="/files/JaeHyeok_Han_CV.pdf" class="btn btn--primary" download><i class="fas fa-download"></i> Download CV (PDF)</a>
+
 Education
 ======
 * B.S. in Biomedical Software, The Catholic University of Korea, Mar. 2025 – Present (GPA: 4.22 / 4.50)
