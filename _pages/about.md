@@ -16,14 +16,6 @@ Research interests
 - **Deep Learning** — neural network models for clinical prediction and representation learning from structured EHR and clinical text.
 - **Clinical Natural Language Processing & LLMs** — clinical concept detection, encounter-status inference, and negation recognition from clinical text.
 
-What I am working on
-======
-- **Information-Channel Decomposition in EHRs** — investigating how observation patterns, recorded values, and static patient information each contribute to clinical prediction, using MIMIC-IV and eICU.
-- **Transportability of HPV Risk Prediction Models** — studying model transportability from NHANES to multinational DHS populations under limited covariate overlap and label-free target settings.
-- **Clinical Text Inference with LLMs** — evaluating large language models for clinical concept detection, encounter-status inference, and negation recognition.
-- **Incisional Hernia Outcomes** — cohort definition, exploratory analysis, subgroup design, and statistical analysis using Korean national claims data.
-- **Breast Cancer Subtype Classification** — comparative NLP and LLM experiments for subtype classification from IHC pathology reports.
-- **FAERS Pharmacovigilance** — preprocessing and deduplication of the FDA Adverse Event Reporting System data.
-
-You can find my [publications and submissions here](/publications/) and my full [CV here](/cv/).
-Feel free to reach out at [hjh06518@catholic.ac.kr](mailto:hjh06518@catholic.ac.kr).
+I am always open to research discussions and collaborations — feel free to email me at
+[hjh06518@catholic.ac.kr](mailto:hjh06518@catholic.ac.kr). You can also browse my
+[publications](/publications/) and [CV](/cv/).
